@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQIAAgAAAAAAACwAAAAsAAAALAAAACwAAAAsAAAALAAAACwu7u7uw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "blockN"
+    },
+    "image2": {
+        "data": "hwQIAAgAAAAiIiKyIiIisiIiIrIiIiKyIiIisiIiIrIiIiKyu7u7uw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "blockR"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
